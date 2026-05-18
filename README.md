@@ -4,7 +4,7 @@
 
 # Contact
 
-Author: Aaron Sintayehu
+Author: Aaron Sintayehu<br>
 Contact: asintaye@umd.edu
 
 
